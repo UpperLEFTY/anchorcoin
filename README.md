@@ -1,2 +1,5 @@
 # anchorcoin
-Making a CC
+Making a Crypto-Currency and a blockchain
+
+
+
