@@ -58,7 +58,7 @@ class Blockchain{
 
 let jsChain = new Blockchain();
 jsChain.addBlock(new Block("06/23/2018", {amount: 5}));
-jsChain.addBlock(new Block("06/22/2018", {amount: 10}));
+jsChain.addBlock(new Block("06/23/2018", {amount: 10}));
 
 console.log(JSON.stringify(jsChain, null, 4));
 console.log("Is blockchain valid? " + jsChain.checkValid());
